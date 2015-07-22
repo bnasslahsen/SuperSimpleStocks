@@ -1,0 +1,6 @@
+com.jpmorgan.stocks
+com.jpmorgan.stocks.dao
+com.jpmorgan.stocks.model
+com.jpmorgan.stocks.service
+com.jpmorgan.stocks.service.dto
+com.jpmorgan.stocks.service.impl
